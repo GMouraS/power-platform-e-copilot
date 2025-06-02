@@ -1,54 +1,56 @@
-### 📘 Registro de Aprendizado – Aula 1
+### 📘 Registro de Aprendizado – Aula [Número]
 
-**👤 Nome:** [Seu nome]  
-**📅 Data da Aula:** 15/05/2025  
-**📚 Curso:** Introdução ao Copilot Studio e Power Platform  
-**🎯 Tema da Aula:** Navegação e Recursos do Copilot Studio
+**👤 Nome:** [Seu nome]
+**🎯 Tema da Aula:** Acessando e Navegando na Interface do Microsoft Copilot Studio
 
 ---
 
 #### 📝 Resumo da Aula
-> Nesta aula, aprendemos como acessar o Copilot Studio, explorar sua interface e entender os principais recursos disponíveis, como criação de agentes, integração com outras soluções da Power Platform e uso de conectores e bibliotecas.
+> Esta aula cobriu como acessar a interface do Microsoft Copilot Studio de diferentes formas (diretamente pelo URL e através do menu da Power Platform). Exploramos a página inicial, suas funcionalidades de acesso rápido e exemplos. Detalhamos a barra de navegação lateral, explicando as seções "Criar", "Agentes" e "Biblioteca", e o menu de atalhos superiores, que permite acessar outras ferramentas da Power Platform e opções avançadas de integração e administração.
 
 ---
 
 #### 🔍 Conceitos ou Ferramentas Apresentadas
-- **Copilot Studio** – Plataforma da Microsoft para criação de agentes inteligentes com interface intuitiva e moderna.
-- **Conectores e Bibliotecas** – Recursos que permitem integrar o Copilot Studio com serviços como Salesforce, Planner, Cognitive Services, entre outros.
-- **SDK e Integrações Avançadas** – Possibilidade de integrar com Azure OpenAI e desenvolver soluções com LLMs personalizadas.
+- **URL de Acesso:** copilotstudio.microsoft.com (forma direta de acessar).
+- **Barra de Navegação da Power Platform:** Ícone de atalhos presente em outras soluções da Power Platform (Power Automate, Power Apps, etc.) que lista todas as ferramentas da suite, incluindo o Copilot Studio.
+- **Página Inicial (Home):** Tela de boas-vindas do Copilot Studio com:
+    - Área de prompt para descrever o agente desejado (criação intuitiva).
+    - Atalhos rápidos para criar agentes baseados em modelos (ex: Assistência Técnica).
+    - Seção de Agentes Recentes.
+    - Seção "Explorar Agentes" com modelos prontos (Perguntas e Respostas de Site, Autoajuda, etc.) para estudo e aprendizado.
+    - Recursos de Aprendizado (Documentação, Comunidade, Tutoriais, FAQs, etc.).
+- **Barra de Navegação Lateral:**
+    - **Criar:** Opção para iniciar a criação de um novo agente, usar modelos ou importar um agente existente.
+    - **Agentes:** Lista de todos os agentes criados no ambiente atual. Mostra status (ex: "bot clássico" para agentes antigos) e oferece opções de gerenciamento (abrir, exportar, excluir, compartilhar).
+    - **Biblioteca:** Contém plugins/conectores prontos (ex: ServiceNow, Salesforce, Planner, Clima, conectores específicos para Copilot for M365) que podem ser adicionados e utilizados no agente.
+- **Menu Superior (Três Pontos):**
+    - Atalhos para outras soluções da Power Platform (Power Apps, Power Automate, Power BI, Power Pages) e para o Centro de Administração (Admin Center).
+    - **Integrações:** Opções avançadas para integrar o Copilot Studio com serviços de IA mais customizados (Azure Cognitive Services, Azure OpenAI) e acesso ao SDK (Software Development Kit) para desenvolvimento.
+- **Bot Clássico:** Ícone que identifica agentes criados na versão anterior do Power Virtual Agents (antes da integração mais profunda com IA).
 
 ---
 
 #### 💡 O que eu aprendi de mais importante
-> - Agentes específicos se comunicando - sistemas multiagentes - podem ser úteis no contexto bancário
-> - Outro ponto a se considerar é, devemos usar a AI Builder?
-1. Como acessar o Copilot Studio diretamente pela URL ou via Power Platform.
-2. A importância da integração entre ferramentas da Power Platform para desenvolvimento de soluções completas.
-3. A existência de modelos prontos e recursos de aprendizado que facilitam a criação de agentes, de modo que um agente
-pode se especializar em algo
+> 1.  O Copilot Studio é facilmente acessível tanto por um URL direto quanto pelo menu de navegação integrado a todas as ferramentas da Power Platform, destacando a conectividade do ecossistema.
+> 2.  A página inicial oferece caminhos rápidos para começar (via prompt ou modelos) e recursos de aprendizado valiosos, sendo um bom ponto de partida para novatos.
+> 3.  A interface é organizada de forma lógica, permitindo gerenciar agentes existentes, explorar integrações via a Biblioteca e acessar configurações avançadas e outras ferramentas da Power Platform através do menu.
 
 ---
 
 #### 🛠 Exercícios ou Atividades Práticas
-- Navegação pela interface do Copilot Studio e exploração dos recursos disponíveis.
-- Insight: A interface intuitiva e os atalhos facilitam muito a criação e gestão de agentes.
+- **Descrição breve do exercício ou atividade:** Navegar até o Microsoft Copilot Studio utilizando o URL direto e o menu da Power Platform (a partir do Power Automate, por exemplo). Explorar a página inicial, clicando nos exemplos e na seção de Recursos de Aprendizado. Navegar pelas abas laterais "Agentes" e "Biblioteca" para ver os agentes existentes (se houver) e os plugins disponíveis. Clicar no menu superior de três pontos para visualizar os atalhos para outras ferramentas da Power Platform e as opções de integração.
+- **Dificuldades encontradas ou insights obtidos:** A navegação entre as ferramentas da Power Platform é muito fluida, facilitando o desenvolvimento de soluções que envolvem mais de um componente (ex: Copilot + Power Automate). A quantidade de exemplos em "Explorar Agentes" e plugins na "Biblioteca" sugere um grande potencial de uso e aceleração no desenvolvimento.
 
 ---
 
 #### 📌 Aplicações no Trabalho
-> - O conhecimento adquirido pode ser aplicado na criação de agentes personalizados para atendimento ao cliente, automação de processos internos e integração com sistemas corporativos via conectores.
-> - Conferir se a licensa 365 contempla o Copilot Studio, de maneira que se não for possível usá-la, Power Automate com os "Prompts"
-> será a solução.
+> Saber como acessar e navegar na interface do Copilot Studio é o primeiro passo para utilizá-lo. Posso acessar rapidamente para verificar o status dos meus agentes, encontrar modelos para me inspirar em novos projetos, ou navegar para o Power Automate para criar uma automação que meu agente precisa executar, tudo sem sair do contexto da Power Platform. Isso otimiza o tempo e facilita a colaboração entre as ferramentas.
+
 ---
 
 #### ❓ Dúvidas ou Pontos a Revisar
-- Como configurar um agente com base em uma fonte de conhecimento externa?
-- Quais são os limites de personalização dos agentes criados no Copilot Studio?
-- Teremos acesso ao AI hub? Atualmente é no plano premium.
-
----
-
-#### 📎 Materiais Complementares
-- [Documentação oficial do Copilot Studio – Microsoft Learn](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/)  
-- [Tutoriais de início rápido e perguntas frequentes – Copilot Studio](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/#training)  
-- [Comunidade de suporte da Microsoft Power Platform](https://learn.microsoft.com/pt-br/power-platform/)
+- Como importar e exportar agentes (foi mencionado na seção "Agentes").
+- Detalhes sobre a integração com Azure Cognitive Services e Azure OpenAI e quando usar essas opções avançadas vs. a IA nativa do Copilot Studio.
+- Explorar os plugins disponíveis na Biblioteca em mais detalhes e como adicioná-los/configurá-los.
+- Como usar o SDK mencionado no menu de integrações.
+- O que está disponível no Admin Center acessível a partir do menu.
