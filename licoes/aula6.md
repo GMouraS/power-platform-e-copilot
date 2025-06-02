@@ -1,6 +1,6 @@
 # 📘 Registro de Aprendizado – Aula 6
 
-**👤 Nome:** [Seu nome]  
+**👤 Nome:** Gabriel Moura
 **🎯 Tema da Aula:** Como Obter uma Licença Trial do Microsoft Copilot Studio
 
 ---

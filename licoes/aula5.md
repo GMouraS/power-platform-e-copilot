@@ -1,6 +1,6 @@
 # 📘 Registro de Aprendizado – Aula 5
 
-**👤 Nome:** [Seu nome]   
+**👤 Nome:** Gabriel Moura
 **🎯 Tema da Aula:** Licenciamento e Gerenciamento de Capacidade no Microsoft Copilot Studio
 
 ---
