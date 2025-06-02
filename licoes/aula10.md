@@ -1,6 +1,6 @@
 # 📘 Registro de Aprendizado – Aula 10
 
-**👤 Nome:** Gabriel
+**👤 Nome:** Gabriel Moura
 **🎯 Tema da Aula:** Utilizando Fontes de Conhecimento através de Carregamento de Arquivos
 
 ---

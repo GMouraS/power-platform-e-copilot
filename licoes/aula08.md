@@ -1,6 +1,6 @@
 # 📘 Registro de Aprendizado – Aula 8
 
-**👤 Nome:** [Seu nome]
+**👤 Nome:** Gabriel Moura
 **🎯 Tema da Aula:** Utilizando Fontes de Conhecimento do SharePoint
 
 ---
