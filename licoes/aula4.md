@@ -1,16 +1,16 @@
-### 📘 Registro de Aprendizado – Aula [Número]
+# 📘 Registro de Aprendizado – Aula 4
 
 **👤 Nome:** Gabriel Moura
 **🎯 Tema da Aula:** Criação e Exploração do Designer do Microsoft Copilot Studio
 
 ---
 
-#### 📝 Resumo da Aula
+## 📝 Resumo da Aula
 > Nesta aula, demos os primeiros passos na criação de um agente (copiloto) no Microsoft Copilot Studio. Focamos em explorar o processo de configuração inicial, incluindo a definição de idioma, nome, descrição, instruções e prompts iniciais. Além disso, navegamos pela interface do designer para entender as diferentes seções (Visão Geral, Conhecimento, Tópicos, Ações, Análise, Canais de Publicação) e as funcionalidades básicas disponíveis para construir e gerenciar o copiloto. Publicamos o agente pela primeira vez para ver o status mudar.
 
 ---
 
-#### 🔍 Conceitos ou Ferramentas Apresentadas
+## 🔍 Conceitos ou Ferramentas Apresentadas
 - **Microsoft Copilot Studio:** A ferramenta principal utilizada para criar, configurar e gerenciar agentes de conversação (copilotos).
 - **Agente/Copiloto:** O assistente virtual que está sendo criado e configurado.
 - **Configurações Iniciais:** O processo de definir idioma, nome, descrição, instruções e prompts iniciais ao criar um novo agente.
@@ -41,7 +41,7 @@
 
 ---
 
-#### 💡 O que eu aprendi de mais importante
+## 💡 O que eu aprendi de mais importante
 > 1.  A criação de um agente começa com configurações básicas (idioma, nome, instruções) e a definição de onde ele buscará informações (Fontes de Conhecimento).
 > 2.  O Designer é o painel central onde se configura praticamente tudo no agente, desde tópicos de conversa até integrações com automações.
 > 3.  Podemos controlar se o agente usa apenas as fontes de conhecimento que fornecemos ou também o conhecimento geral de IA, o que é crucial para garantir respostas relevantes e precisas.
@@ -49,7 +49,7 @@
 
 ---
 
-#### 🛠 Exercícios ou Atividades Práticas
+## 🛠 Exercícios ou Atividades Práticas
 - **Descrição breve do exercício ou atividade:** Criar um novo agente do zero, preenchendo suas configurações iniciais como nome, descrição, instruções e adicionando uma fonte de conhecimento baseada em um site público. Explorar as diferentes abas e menus do designer (Visão Geral, Conhecimento, Tópicos, Ações, Análise, Canais, Configurações, Teste) para entender a estrutura da ferramenta. Publicar o agente pela primeira vez.
 - **Dificuldades encontradas ou insights obtidos:**
     - URLs de sites públicos como fonte de conhecimento têm limitação de profundidade (máx. 2 níveis).
@@ -59,7 +59,7 @@
 
 ---
 
-#### 📌 Aplicações no Trabalho
+## 📌 Aplicações no Trabalho
 > O conhecimento adquirido nesta aula é fundamental para iniciar a construção de copilotos que podem:
 > - Automatizar respostas a perguntas comuns em áreas como RH, TI, e processos internos, liberando tempo da equipe.
 > - Facilitar o acesso a informações e documentos da empresa ao usar SharePoint ou arquivos como fontes de conhecimento.
@@ -68,7 +68,7 @@
 
 ---
 
-#### ❓ Dúvidas ou Pontos a Revisar
+## ❓ Dúvidas ou Pontos a Revisar
 - Como controlar exatamente quais prompts iniciais aparecem para o usuário (o "truquezinho" mencionado).
 - Entender em mais detalhes as configurações avançadas, como Solutions e Scheme Name.
 - Aprofundar o uso e a configuração das Ações e Gatilhos/Agentes Autônomos, especialmente considerando o status preliminar.

@@ -1,4 +1,4 @@
-### 📘 Registro de Aprendizado – Aula [Número]
+### 📘 Registro de Aprendizado – Aula 2
 
 **👤 Nome:** [Seu nome]  
 **🎯 Tema da Aula:** O Ecossistema da Microsoft Power Platform
