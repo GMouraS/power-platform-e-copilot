@@ -1,6 +1,6 @@
 ### 📘 Registro de Aprendizado – Aula 2
 
-**👤 Nome:** [Seu nome]  
+**👤 Nome:** Gabriel Moura
 **🎯 Tema da Aula:** O Ecossistema da Microsoft Power Platform
 
 ---
@@ -11,26 +11,26 @@
 ---
 
 #### 🔍 Conceitos ou Ferramentas Apresentadas
-- **Power Platform:** Suíte de ferramentas low-code/no-code da Microsoft para resolver problemas de negócio.
+- **Microsoft Power Platform:** Suíte de ferramentas low-code/no-code da Microsoft para resolver problemas de negócio.
 - **Low Code / No Code:** Filosofia de desenvolvimento que exige pouca ou nenhuma escrita de código, utilizando interfaces visuais (drag and drop, clique).
-- **Power Apps:** Solução para desenvolvimento de aplicações de negócio personalizadas, focada em criar telas para coleta e interação com dados.
+- **Power Apps:** Solução para desenvolvimento de aplicações de negócio personalizadas, focadas em criar telas e interface com dados, para coleta e interação com informações.
 - **Power Automate:** Ferramenta para automatizar processos e tarefas repetitivas, atuando de forma "cross" entre as outras soluções e serviços.
 - **Power BI:** Solução de Business Intelligence para criar relatórios e dashboards interativos, transformando dados em insights para tomada de decisão.
-- **Copilot Studio (anteriormente Power Virtual Agents - PVA):** Ferramenta para construir bots de conversação inteligentes, agora com forte integração de IA (GPT/OpenAI), permitindo criar bots que entendem e respondem de forma mais natural.
+- **Microsoft Copilot Studio (anteriormente Power Virtual Agents - PVA):** Ferramenta para construir bots de conversação inteligentes, agora com forte integração de IA generativa (GPT/OpenAI), permitindo criar bots que entendem e respondem de forma mais natural.
 - **Power Pages:** Ferramenta para desenvolver websites e portais, geralmente voltados para público externo, com a mesma abordagem low-code.
 - **Data Connectors:** Conectores prontos que permitem integrar as ferramentas da Power Platform com mais de 1000 fontes de dados e serviços externos (SharePoint, SQL, Salesforce, Twitter, etc.), facilitando e agilizando a integração.
 - **AI Builder:** Componente de Inteligência Artificial da Power Platform que oferece modelos pré-construídos ou personalizáveis para tarefas como processamento de documentos, análise de sentimento, extração de texto, etc., utilizável via low-code nas outras ferramentas.
-- **Microsoft Dataverse:** Banco de dados proprietário da Microsoft otimizado para a Power Platform, servindo como um repositório centralizado e seguro para dados de negócio (embora outras fontes como SharePoint Lists ou Azure SQL também possam ser usadas).
-- **Power FX:** Linguagem de fórmula de baixo código usada na Power Platform, semelhante às funções do Microsoft Excel (IF, LOOKUP, etc.), facilitando a criação de lógica e regras nas aplicações e fluxos.
+- **Microsoft Dataverse:** Banco de dados relacional proprietário da Microsoft otimizado para a Power Platform, servindo como um repositório centralizado e seguro para dados de negócio (embora outras fontes como SharePoint Lists ou Azure SQL também possam ser usadas).
+- **Power FX:** Linguagem de fórmula de baixo código usada na Power Platform, semelhante às funções do Microsoft Excel (`IF`, `LOOKUP`, etc.), facilitando a criação de lógica e regras nas aplicações e fluxos.
 - **Ambientes Gerenciados (Managed Environments):** Camada de governança e administração sobre os ambientes da Power Platform, permitindo aplicar políticas de segurança (DLP - Data Loss Prevention), gerenciar acesso e monitorar o uso em larga escala.
 
 ---
 
 #### 💡 O que eu aprendi de mais importante
 > 1.  A principal força da Power Platform reside na **integração nativa** entre suas diversas ferramentas, permitindo criar soluções completas que combinam aplicativos, automações, dashboards, chatbots e portais.
-> 2.  A abordagem **low-code/no-code** e o uso de ferramentas como o Power FX (similar ao Excel) tornam a plataforma acessível para pessoas de negócio com pouca ou nenhuma experiência em programação.
+> 2.  A abordagem **low-code/no-code** e o uso de ferramentas como o `Power FX` (similar ao Excel) tornam a plataforma acessível para pessoas de negócio com pouca ou nenhuma experiência em programação, reduzindo a curva de aprendizado.
 > 3.  Recursos como **Data Connectors** (para integração rápida) e **AI Builder** (para funcionalidades de IA) são aceleradores poderosos que expandem significativamente as capacidades das soluções criadas sem a necessidade de desenvolvimento complexo.
-> 4.  Existe uma camada de **segurança e governança** embutida (Dataverse, Ambientes Gerenciados, integração com Azure/MFA) que ajuda a proteger os dados e controlar o uso da plataforma na organização.
+> 4.  Existe uma camada de **segurança e governança embutida** (Dataverse, Ambientes Gerenciados, integração com Azure/MFA) que ajuda a proteger os dados e controlar o uso da plataforma na organização.
 
 ---
 
@@ -46,10 +46,11 @@
 ---
 
 #### ❓ Dúvidas ou Pontos a Revisar
-- Como a integração entre as diferentes ferramentas da Power Platform funciona na prática (ex: como um Power App chama um Power Automate ou interage com dados no Dataverse).
-- Exemplos práticos de uso do AI Builder em diferentes cenários de negócio.
-- Quando é mais apropriado usar Dataverse vs. SharePoint Lists como fonte de dados.
-- Detalhes sobre os principais Data Connectors e como configurá-los.
-- Explorar a fundo as funcionalidades e a sintaxe do Power FX com exemplos práticos.
-- Detalhes sobre o licenciamento e custos associados ao uso das diferentes ferramentas da Power Platform.
-- Configurações e benefícios mais aprofundados dos Ambientes Gerenciados (Managed Environments).
+- Como ocorre a integração prática entre Power Apps e Power Automate, ou como interagir com dados no Dataverse?
+- Quais são os cenários de uso recomendados para AI Builder?
+- Quando é mais apropriado usar Dataverse versus SharePoint Lists como fonte de dados?
+- Quais são os detalhes sobre os principais Data Connectors e como configurá-los?
+- Como explorar a fundo as funcionalidades e a sintaxe do `Power FX` com exemplos práticos?
+- Quais são os detalhes sobre o licenciamento e custos associados ao uso das diferentes ferramentas da Power Platform?
+- Quais são as configurações e os benefícios mais aprofundados dos Ambientes Gerenciados (Managed Environments)?
+---
