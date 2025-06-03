@@ -1,6 +1,6 @@
-# 📘 Registro de Aprendizado – Aula [Número]
+# 📘 Registro de Aprendizado – Aula 22
 
-**👤 Nome:** [Seu nome]
+**👤 Nome:** Gabriel Moura
 **🎯 Tema da Aula:** Fazendo Requisições HTTP via Power Automate (Ações)
 
 ---
